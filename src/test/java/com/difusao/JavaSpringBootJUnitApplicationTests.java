@@ -8,6 +8,6 @@ class JavaSpringBootJUnitApplicationTests {
 
 	@Test
 	void contextLoads() {
-	}
 
+	}
 }
